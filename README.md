@@ -1,3 +1,3 @@
 File Explorer Web App
 ===
-A file explorer web app.
+A TypeScript file explorer web app.
