@@ -1,3 +1,3 @@
-File Explorer Web App
+TS Explorer
 ===
 A TypeScript file explorer web app.
